@@ -1,0 +1,62 @@
+[
+  {
+    "name": "iPhone 15",
+    "price": 154,
+    "featured": false,
+    "company": "apple"
+  },
+  {
+    "name": "Galaxy S24",
+    "price": 199,
+    "featured": false,
+    "company": "samsung"
+  },
+  {
+    "name": "Dell Inspiron",
+    "price": 299,
+    "featured": true,
+    "company": "dell"
+  },
+  {
+    "name": "Mi Note 13",
+    "price": 179,
+    "featured": false,
+    "company": "mi"
+  },
+  {
+    "name": "MacBook Air",
+    "price": 899,
+    "featured": true,
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Smart TV",
+    "price": 649,
+    "featured": true,
+    "company": "samsung"
+  },
+  {
+    "name": "Dell XPS 13",
+    "price": 999,
+    "featured": false,
+    "company": "dell"
+  },
+  {
+    "name": "Mi Smart Band",
+    "price": 49,
+    "featured": true,
+    "company": "mi"
+  },
+  {
+    "name": "iPad Pro",
+    "price": 799,
+    "featured": false,
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Galaxy Tab",
+    "price": 549,
+    "featured": true,
+    "company": "samsung"
+  }
+]
